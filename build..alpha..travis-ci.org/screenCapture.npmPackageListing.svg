@@ -1,18 +1,18 @@
 <svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="238" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 14:49:14 +0000    98447 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 14:49:14 +0000    11510 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 14:49:14 +0000      229 bytes  js/index.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 14:49:14 +0000    12622 bytes  js/load-image-exif-map.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 14:49:14 +0000     9002 bytes  js/load-image-exif.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 14:49:14 +0000     1128 bytes  js/load-image-fetch.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 14:49:14 +0000     5774 bytes  js/load-image-meta.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 14:49:14 +0000     5498 bytes  js/load-image-orientation.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 14:49:14 +0000     7814 bytes  js/load-image-scale.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 14:49:14 +0000    17766 bytes  js/load-image.all.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 14:49:14 +0000    21215 bytes  js/load-image.all.min.js.map</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 14:49:14 +0000     4173 bytes  js/load-image.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 14:49:14 +0000     1716 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 14:50:14 +0000    98447 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 14:50:14 +0000    11510 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 14:50:14 +0000      229 bytes  js/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 14:50:14 +0000    12622 bytes  js/load-image-exif-map.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 14:50:14 +0000     9002 bytes  js/load-image-exif.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 14:50:14 +0000     1128 bytes  js/load-image-fetch.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 14:50:14 +0000     5774 bytes  js/load-image-meta.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 14:50:14 +0000     5498 bytes  js/load-image-orientation.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 14:50:14 +0000     7814 bytes  js/load-image-scale.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 14:50:14 +0000    17766 bytes  js/load-image.all.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 14:50:14 +0000    21215 bytes  js/load-image.all.min.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 14:50:14 +0000     4173 bytes  js/load-image.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 14:50:14 +0000     1716 bytes  package.json</tspan>
 </text>
 </svg>
