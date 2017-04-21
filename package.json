@@ -1,1 +1,38 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmdoc-blueimp-load-image",     "homepage": "https://github.com/npmdoc/node-npmdoc-blueimp-load-image",     "repository": {         "type": "git",         "url": "https://github.com/npmdoc/node-npmdoc-blueimp-load-image.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### api documentation for  [blueimp-load-image (v2.12.2)](https://github.com/blueimp/JavaScript-Load-Image)  [![npm package](https://img.shields.io/npm/v/npmdoc-blueimp-load-image.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blueimp-load-image) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blueimp-load-image.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blueimp-load-image)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-blueimp-load-image",
+    "keywords": [
+        "documentation",
+        "blueimp-load-image"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_blueimp_load_image.js",
+    "name": "npmdoc-blueimp-load-image",
+    "nameAlias": "npmdoc_blueimp_load_image",
+    "nameOriginal": "npmdoc-blueimp-load-image",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-blueimp-load-image.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
